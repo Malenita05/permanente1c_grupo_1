@@ -6,7 +6,7 @@
     <li>Nikolas Zuñiga</li>
     <li>Jean Marc Nadeau</li>
     <li>Bianca Díaz</li>
-</ul>>
+</ul>
 </div>
 <h3>¿Que usamos?</h3>
 <p>Usamos bucles FOR y funciones.</p>
